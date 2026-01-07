@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ルルージュ",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-07T08:09:01.154958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルルージュ",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/01_ルルージュ_MIMI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルルージュ",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/02_ルルージュ_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "『ルルージュ』 (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/03_『ルルージュ』_(feat._初音ミク)_MIMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルルージュ",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_ルルージュ_MIMI.txt"
+    }
+  ]
+}
